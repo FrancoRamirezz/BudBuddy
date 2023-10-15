@@ -10,4 +10,4 @@ FastAPI + AWS or GCP, or Azure
 used in python 
 
 # Frontend
-Next.js and React
+Next.js and React and vercel if possible
