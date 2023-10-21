@@ -1,8 +1,5 @@
 # SAAS
-A SAAS product
-
-
-
+A SAAS product. The point of the project is to make sure that we might be able to make a chatbot to help finds jobs??
 
 # Bakcend
 FastAPI + AWS or GCP, or Azure
