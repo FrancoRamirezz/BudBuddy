@@ -4,7 +4,7 @@ A SAAS product. The point of the project is to make sure that we might be able t
 # Bakcend
 FastAPI + AWS or GCP, or Azure
 # LLM model
-used in python 
+used in python or we can use openai to do so as well
 
 # Frontend
 Next.js and React and vercel if possible
