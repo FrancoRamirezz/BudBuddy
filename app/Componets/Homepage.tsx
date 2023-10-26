@@ -1,7 +1,9 @@
 
 const Homepage = () = {
 
-
+<h1 className="">
+Hello welcome to the shop
+</h1>
 
 
 }
