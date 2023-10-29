@@ -7,4 +7,4 @@ FastAPI + AWS or GCP and we must use prisma or something else
 used in python or we can use openai to do so as well
 
 # Frontend
-Next.js and React and vercel if possible
+Next.js and React and vercel if  or antoter frontend thing
