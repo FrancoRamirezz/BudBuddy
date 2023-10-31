@@ -1,10 +1,23 @@
 # SAAS
-A SAAS product. The point of the project is to make sure that we might be able to make a chatbot to help finds jobs??
 
-# Bakcend
-FastAPI + AWS or GCP and we must use prisma or something else 
-# LLM model
-used in python or we can use openai to do so as well
+## Overview
+This is a SaaS product aimed at developing a chatbot to assist users in finding jobs.
+
+# Backend
+
+## Technology Stack
+- FastAPI for the backend framework
+- AWS or GCP for cloud hosting
+- Prisma for database ORM, or an alternative if preferred
+
+# Language Model (LLM)
+
+## Integration
+The Language Model for chatbot interactions can be implemented using Python or OpenAI, depending on the choice of technology.
 
 # Frontend
-Next.js and React and vercel if  or antoter frontend thing
+
+## Technology Stack
+- Next.js for the frontend framework
+- React for building user interfaces
+- Vercel for hosting the frontend, or another suitable frontend hosting solution
