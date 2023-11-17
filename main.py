@@ -8,6 +8,7 @@ def new_route():
 def openai_function():
     pass
 # will add the new functions below this 
+# to ensure that the connection is used we must use Crossware
 
 
 if __name__ == "__main__":
