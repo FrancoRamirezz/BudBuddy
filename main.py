@@ -19,7 +19,7 @@ app.add_middleware(
 
 @app.get('/')
 async def route():
-    return {"App": "Hello Virgo AI Saas"}
+    return {"App": "SAAS startup"}
 
 
 
