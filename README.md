@@ -7,7 +7,7 @@ This is a SaaS product aimed at developing a chatbot to assist users in finding 
 FastAPI will be used 
 ## Technology Stack
 - FastAPI for the backend framework
-- AWS or GCP for cloud hosting
+- AWS or GCP for cloud hosting or host on Azure
 - Prisma for database ORM, or an alternative if preferred
 
 # Language Model (LLM)
