@@ -4,8 +4,7 @@
 This is a SaaS product aimed at developing a chatbot to assist users in finding jobs.
 
 # Backend
-FastAPI or Golangm might be used
-
+FastAPI will be used 
 ## Technology Stack
 - FastAPI for the backend framework
 - AWS or GCP for cloud hosting
