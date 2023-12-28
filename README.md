@@ -4,7 +4,7 @@
 This is a SaaS product aimed at developing a chatbot to assist users in finding jobs.
 
 # Backend
-FastAPI will be used 
+FastAPI will be used or Firebase can be used
 ## Technology Stack
 - FastAPI for the backend framework
 - AWS or GCP for cloud hosting or host on Azure
@@ -19,5 +19,12 @@ The Language Model for chatbot interactions can be implemented using Python or O
 
 ## Technology Stack
 - Next.js for the frontend framework
+-   
 - React for building user interfaces
 - Vercel for hosting the frontend, or another suitable frontend hosting solution
+
+
+
+Server Components: Render on the server, improving performance and SEO.
+Client Components: Render on the client, enabling interactive features and client-side state.
+use client Directive: Explicitly marks a component as a Client Componen
