@@ -11,6 +11,7 @@ This is a SaaS product aimed at developing a chatbot to assist users in finding 
 - Prisma for database ORM, or an alternative if preferred
 
 # Language Model (LLM)
+OpenAi
 
 ## Integration
 The Language Model for chatbot interactions can be implemented using Python or OpenAI, depending on the choice of technology.
