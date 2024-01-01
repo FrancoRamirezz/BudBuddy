@@ -3,8 +3,8 @@
 This is a SaaS product aimed at developing a chatbot to assist users in finding jobs.
 
 # Backend
-FastAPI will be used or Firebase. 
-# Firebase offers important aspects for the tool
+ Firebase. 
+# Firebase offers important aspects of the tool
 ## Technology Stack
 - FastAPI for the backend framework
 - AWS or GCP for cloud hosting or host on Azure
