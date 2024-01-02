@@ -1,6 +1,6 @@
 # SAAS
 ## Overview
-This is a SaaS product aimed at developing a chatbot to assist users in finding jobs.
+This is a SaaS product intended to help others find stores 
 
 # Backend
  Firebase. 
