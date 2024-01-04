@@ -15,7 +15,7 @@ this is for the free period of time
 - Prisma for database ORM, or an alternative if preferred
 
 # Language Model (LLM)
-OpenAi
+OpenAI can be used for the chatbot. The chatbot will be used to help the customers 
 
 ## Integration
 The Language Model for chatbot interactions can be implemented using Python or OpenAI, depending on the choice of technology.
