@@ -7,6 +7,7 @@ This is a SaaS product intended to help others find stores
 Important thing to know: "To prevent abuse, new projects currently have an SMS daily quota of 50/day. To increase this quota, please add a billing account to the project"
 # Firebase offers important aspects of the tool
 https://firebase.google.com/support/faq#pricing-free-trial
+
 https://firebase.google.com/docs/auth/web/firebaseui?hl=en&authuser=0
 
 this is for the free period of time
