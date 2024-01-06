@@ -23,6 +23,14 @@ OpenAI can be used for the chatbot. The chatbot will be used to help the custome
 The Language Model for chatbot interactions can be implemented using Python or OpenAI, depending on the choice of technology.
 
 # Frontend
+Nextjs and React.
+Remember to use the docs:
+
+To use Client Components, you can add the React "use client" directive at the top of a file, above your imports.
+
+"use client" is used to declare a boundary between a Server and Client Component modules. This means that by defining a "use client" in a file, all other modules imported into it, including child components, are considered part of the client bundle.
+
+
 
 ## Technology Stack
 - Next.js for the frontend framework
