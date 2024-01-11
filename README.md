@@ -4,13 +4,13 @@ This is a SaaS product intended to help others find stores
 
 # Backend
  Firebase. 
-Important thing to know: "To prevent abuse, new projects currently have an SMS daily quota of 50/day. To increase this quota, please add a billing account to the project"
+The important thing to know: "To prevent abuse, new projects currently have an SMS daily quota of 50/day. To increase this quota, please add a billing account to the project"
 # Firebase offers important aspects of the tool
 https://firebase.google.com/support/faq#pricing-free-trial
 
 https://firebase.google.com/docs/auth/web/firebaseui?hl=en&authuser=0
 
-this is for the free period of time
+this is for free a period of time
 ## Technology Stack
 - FastAPI for the backend framework
 - AWS or GCP for cloud hosting or host on Azure
