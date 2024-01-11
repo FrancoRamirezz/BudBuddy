@@ -10,7 +10,7 @@ https://firebase.google.com/support/faq#pricing-free-trial
 
 https://firebase.google.com/docs/auth/web/firebaseui?hl=en&authuser=0
 
-this is for free a period of time
+this is for free for a period of time
 ## Technology Stack
 - FastAPI for the backend framework
 - AWS or GCP for cloud hosting or host on Azure
