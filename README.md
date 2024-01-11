@@ -42,4 +42,4 @@ To use Client Components, you can add the React "use client" directive at the to
 
 Server Components: Render on the server, improving performance and SEO.
 Client Components: Render on the client, enabling interactive features and client-side state.
-use client Directive: Explicitly marks a component as a Client Componen
+use client Directive: Explicitly marks a component as a Client Component
