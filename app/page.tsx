@@ -1,33 +1,37 @@
-import axios from "axios";
-import { SaasProvider } from "@saas-ui/react";
-// for the image svg it comes withe next.js files
+import React from "react";
+import Link from 'next/link'
+import contact from "./Contact/page";
 const Homepage = () => {
   return (
     <div className="container">
       <header className="header">
         <div className="logo">
-          <img src="/logo.svg" alt="SaaS AI Logo" />
+          <img src="/BudBuddy.png" alt="BudBuddy" />
         </div>
 
         <nav className="nav">
           <ul>
             <li>
-              <a href="#">Features</a>
+              < Link href="/">Features</Link>
             </li>
             <li>
-              <a href="#">Pricing</a>
+              <Link href="/Pricing">Pricing</Link>
             </li>
             <li>
-              <a href="#">Contact</a>
+              <Link href="/contact">Contact</Link>
+            </li>
+            <li>
+              < Link href = "/About">About</Link>
             </li>
           </ul>
         </nav>
       </header>
 
       <section className="hero">
-        <h1 className="heroTitle">Revolutionize your business with SaaS AI</h1>
+        <h1 className="heroTitle">BudBuddy </h1>
         <p className="heroDescription">
-          SaaS AI is a powerful platform that helps businesses automate tasks, improve efficiency, and gain insights into their data.
+        Our mission is to make Medical Cannabis far more accessible and build a strong connection with other dispensary
+
         </p>
         <a href="#" className="heroButton">Get Started</a>
       </section>
