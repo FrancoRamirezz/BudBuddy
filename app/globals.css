@@ -25,3 +25,97 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif; /* You can choose a font that matches your theme */
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+}
+
+.logo img {
+  max-width: 100px; /* Adjust the size of your logo */
+  height: auto;
+}
+
+.nav ul {
+  list-style: none;
+  display: flex;
+}
+
+.nav li {
+  margin: 0 15px;
+}
+
+.nav a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+.hero {
+  background-color: #4CAF50; /* Choose a color that fits the cannabis theme */
+  color: white;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.heroTitle {
+  font-size: 2.5rem;
+}
+
+.heroDescription {
+  margin-top: 10px;
+  font-size: 1.2rem;
+}
+
+.heroButton {
+  margin-top: 20px;
+  background-color: #f0db4f;
+  color: black;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+  text-decoration: none;
+}
+
+.features {
+  padding: 40px 20px;
+}
+
+.featuresGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  text-align: center;
+}
+
+.feature svg {
+  fill: #4CAF50; /* SVG color */
+}
+
+.cta {
+  background-color: #333;
+  color: white;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.ctaButton {
+  background-color: #f0db4f;
+  color: black;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+  text-decoration: none;
+}
