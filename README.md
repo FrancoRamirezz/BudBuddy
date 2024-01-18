@@ -19,6 +19,9 @@ this is for free a period of time
 # Language Model (LLM)
 OpenAI can be used for the chatbot. The chatbot will be used to help the customers 
 
+# Stripe docs:
+https://github.com/stripe/stripe-python
+
 ## Integration
 The Language Model for chatbot interactions can be implemented using Python or OpenAI, depending on the choice of technology.
 
