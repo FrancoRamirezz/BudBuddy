@@ -1,12 +1,13 @@
 import { useState } from "react";
+import { TextField, Button, Card, CardContent, Typography } from '@mui/material';
+'use client'
 const Signup = () =>{
-const [email, setEmail] = useState();
+const [username, setUsername] = useState();
 const [password, setPassword]= useState();
-const handlesubmit = (e: React.FormEvent<HTMLInputElement>) =>{
 // set the event within here because 
 // typescipt makes sure that e must have a type behind 
-    e.preventDefault();
-    console.log(email)
-
-
-}
+const handleSubmit = (e:React.FormEvent<HTMLFormElement>) => {
+  e.preventDefault();
+  console.log('Login details:', { username, password });
+  // Implement login logic here
+};
