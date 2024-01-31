@@ -21,7 +21,7 @@ OpenAI can be used for the chatbot. The chatbot will be used to help the custome
 
 # Stripe docs:
 https://github.com/stripe/stripe-python
-Or could implement a different payment 
+
 
 ## Integration
 The Language Model for chatbot interactions can be implemented using Python or OpenAI, depending on the choice of technology.
