@@ -1,12 +1,14 @@
 import React from "react";
 import Link from 'next/link'
+import BudBuddy from '../public//BudBuddy.png'
+
 import contact from "./Contact/page";
 const Homepage = () => {
   return (
     <div className="container">
       <header className="header">
         <div className="logo">
-          <img src="/BudBuddy.png" alt="BudBuddy" />
+          <img src="/BudBuddy.png" alt= "BudBuddy" />
         </div>
 
         <nav className="nav">
@@ -22,6 +24,9 @@ const Homepage = () => {
             </li>
             <li>
               < Link href = "/About">About</Link>
+            </li>
+            <li>
+              <Link href ="/LoginForm">Login Form</Link>
             </li>
           </ul>
         </nav>
@@ -43,8 +48,8 @@ const Homepage = () => {
             <svg width="50" height="50">
               <use xlinkHref="/icon-automation.svg" />
             </svg>
-            <h3>Automation</h3>
-            <p>Automate repetitive tasks and free up your team to focus on strategic work.</p>
+            <h3>Theme</h3>
+            <p>We started off with building a intimate connection with consumers</p>
           </div>
 
           <div className="feature">
@@ -60,7 +65,7 @@ const Homepage = () => {
               <use xlinkHref="/icon-insights.svg" />
             </svg>
             <h3>Insights</h3>
-            <p>Gain actionable insights from your data to make better business decisions.</p>
+            <p>Develope effictive infrastructer .</p>
           </div>
         </div>
       </section>
@@ -73,5 +78,4 @@ const Homepage = () => {
  
   );
 };
-    
 export default Homepage;
