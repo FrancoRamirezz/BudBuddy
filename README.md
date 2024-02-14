@@ -34,6 +34,8 @@ To use Client Components, you can add the React "use client" directive at the to
 
 "use client" is used to declare a boundary between a Server and Client Component modules. This means that by defining a "use client" in a file, all other modules imported into it, including child components, are considered part of the client bundle.
 
+# SetUP
+For App folder make sure to make a new folder named Client and add the APP folder there. The 
 
 
 ## Technology Stack
