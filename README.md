@@ -16,9 +16,6 @@ this is for free a period of time
 - AWS or GCP for cloud hosting or host on Azure
 - Prisma for database ORM, or an alternative if preferred
 
-# Language Model (LLM)
-OpenAI can be used for the chatbot. The chatbot will be used to help the customers 
-
 # Stripe docs:
 https://github.com/stripe/stripe-python
 
