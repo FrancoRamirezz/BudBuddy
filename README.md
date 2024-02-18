@@ -1,6 +1,6 @@
 # SAAS
 ## Overview
-This is a SaaS product intended to help others find stores 
+This is a SaaS product intended to help other customer find their local dispersancy
 
 # Backend
  Firebase. 
